@@ -14,6 +14,9 @@
 *::before {
   box-sizing: border-box;
 }
+header {
+  width: 100vw;
+}
 
 /*topagraphy*/
 ::selection {
@@ -62,6 +65,7 @@ h3 {
 p {
   margin-top: 0;
 }
+
 
 /* links */
 a {
