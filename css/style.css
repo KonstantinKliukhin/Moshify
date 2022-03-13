@@ -294,6 +294,7 @@ a {
 .card--primary .badge--primary {
   background: #126de4;
 }
+
 .card--secondary .badge--secondary {
   background: #02cdf1;
 }
@@ -569,6 +570,7 @@ a {
 
 .container {
   max-width: 1140px;
+  min-width: 320px;
   margin: 0 auto;
 }
 
